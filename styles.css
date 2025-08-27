@@ -34,6 +34,13 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover{
+  background-color: white;
+  color: #333;
+  border-radius: 4px;
+  
+}
+
 
 main {
   padding: 1rem;
@@ -75,7 +82,7 @@ form button:hover {
 
 footer {
   background-color: #333;
-  color: white;
+  color: grey;
   text-align: center;
   padding: 1rem;
 }
