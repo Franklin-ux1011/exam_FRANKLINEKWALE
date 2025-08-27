@@ -2,4 +2,4 @@ Franklin Ekwale
 
 PERSONAL PORTFOLIO WEBSITE
 
-This is a midterm project 
+i built a basic portfolio page with a working form using just html & css
